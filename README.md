@@ -13,7 +13,7 @@ Here, an Urban Vulnerability Assessment (UVA) methodology is proposed. UVA inves
 The Copyright of the UVA belongs to the ALIFE research groups at 
 Universidad Nacional de Colombia. 
 You are free to use the INFEKTA for research purposes. 
-All publications which use this model or any code in the model should acknowledge the use of **INFEKTA** and reference
+All publications which use this model or any code in the model should acknowledge the use of **UVA** and reference
 _"Prieto, J., Malagón, R., Gomez, J., & León, E. (2021). 
 Urban Vulnerability Assessment for Pandemic Surveillance: The COVID-19 Case in Bogotá, Colombia. 
 Sustainability, 13(6), 3402."_.
